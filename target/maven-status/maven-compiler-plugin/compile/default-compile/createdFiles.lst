@@ -1,0 +1,6 @@
+cl\proxy\inter\impl\CuentaBancoBImpl.class
+cl\proxy\proxy\CuentaProxy.class
+cl\proxy\model\Cuenta.class
+cl\proxy\App.class
+cl\proxy\inter\impl\CuentaBancoAImpl.class
+cl\proxy\inter\ICuenta.class
